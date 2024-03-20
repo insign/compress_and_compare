@@ -1,4 +1,4 @@
-Simple binary that runs 7z using different format and levels than compare results
+Simple binary that runs 7z using different format and levels then compare results
 
 # Result example
 
