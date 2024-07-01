@@ -9,4 +9,4 @@ dependencies:
   chalkdart: ^2.2.1
   intl: ^0.19.0
   path: ^1.9.0
-  process_run: ^0.14.2
+  process_run: ">=0.14.2 <2.0.0"
