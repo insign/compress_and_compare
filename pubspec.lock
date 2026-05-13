@@ -13,10 +13,10 @@ packages:
     dependency: "direct main"
     description:
       name: chalkdart
-      sha256: "0b7ec5c6a6bafd1445500632c00c573722bd7736e491675d4ac3fe560bbd9cfe"
+      sha256: "7dcf37e0b3d8dcec8c4ae0420d85aad9b3167d6a759601fd5b0f2b1958746581"
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.1"
+    version: "3.1.0"
   clock:
     dependency: transitive
     description:
